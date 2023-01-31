@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 <br>
 ## School 🤹‍♀
 - Majoring in Data Science at Sejong University (Bachelor)
-- Working on Environmental Big Data Laboratory
 
 ## Interest 👀
 - Analyzing CRIME DATA
