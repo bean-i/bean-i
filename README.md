@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - Majoring in Data Science at Sejong University (Bachelor)
 
 ## Interest 👀
-- Analyzing CRIME DATA
-- Analyzing spatio-temporal
-- Time Series Data Analysis
-- Machine Learning
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bean-i)](https://github.com/bean-i/github-readme-stats)
