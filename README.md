@@ -44,6 +44,8 @@ I'm a senior at Sejong Univ. (Majoring in Data Science)
 ### - Languages
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> ![C](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=white)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fighting1802)](https://solved.ac/fighting1802/)
+
 ### - Environment
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
