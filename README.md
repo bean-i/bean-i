@@ -56,3 +56,5 @@ I'm a senior at Sejong Univ. (Majoring in Data Science)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bean-i&show_icons=true&theme=dracula)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=dracula"/>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
