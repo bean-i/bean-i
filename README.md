@@ -39,11 +39,7 @@ I'm a senior at Sejong Univ. (Majoring in Data Science)
 
 ## Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leebin0603@gmail.com)](leebin0603@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/bean.__.kong/)](https://www.instagram.com/bean.__.kong/) 
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bean-i&show_icons=true&theme=dracula)
 -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimclick&layout=compact&theme=dracula"/>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
