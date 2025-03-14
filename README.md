@@ -4,7 +4,6 @@
 ## About Me
 Hello, My name is Been Lee.
 
-I'm a senior at Sejong Univ. (Majoring in Data Science)
 
 📒Tech Blog : https://velog.io/@beankong https://todayforme.tistory.com/
 
