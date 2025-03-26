@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Hi,%20There&fontSize=90&fontColor=363636" />
 
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbean-i&count_bg=%23FF8BB1&title_bg=%23F53E67&icon=&icon_color=%230B65DB&title=VISIT&edge_flat=true)](https://hits.seeyoufarm.com)
+-->
 ## About Me
 Hello, My name is Been Lee.
 
