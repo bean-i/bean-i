@@ -21,31 +21,27 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
 ## 🚀 Projects
-### [• SSGcam (2024, チーム)](https://github.com/bean-i/SSGcam)
-通話内容を **リアルタイム** で解析し、ボイスフィッシングおよび **ディープボイスを検知** するアプリケーションです。
-- `Flutter`, `Node.js`
-- **アプリ**と**サーバー**開発担当
+### [1. SSGcam (2024, チーム)](https://github.com/bean-i/SSGcam)
+- `Flutter` `Node.js`
+- **リアルタイム**で通話内容を解析し、ボイスフィッシングおよび **ディープボイスを検知** するアプリケーションです。
 
-### [• MarshEE! (2024, チーム)](https://github.com/4th-Apple-Foundation-Program/MarshEE)
-**Apple Developer Academy Foundation Program**にて開発した、チーム活動後に**ソフトスキルを相互に評価・共有**できるiOSアプリです。  
+### [2. MarshEE! (2024, チーム)](https://github.com/4th-Apple-Foundation-Program/MarshEE) [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/kr/app/marshee/id6738468804)
 - `UIKit`  
-- **アプリ**開発担当
-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/kr/app/marshee/id6738468804)
+- **Apple Developer Academy Foundation Program**で開発した、チーム活動における**ソフトスキルを相互に評価・共有**できるiOSアプリです。
 
-### [• Coinアプリ (2025, 個人)]()
-仮想通貨の価格を **リアルタイムで確認** し、気になるコインを **お気に入りに登録** できるiOSアプリです。  
-同じ機能を **UIKit版** と **SwiftUI版** の2種類で実装しました。
+### [3. Coinアプリ (2025, 個人)]()
 - `UIKit` `SwiftUI`
-- **[Coini (UIKit版)]()**
-- **[Crippo (SwiftUI版)]()**
+- 仮想通貨の価格を**リアルタイムで確認**し、気になるコインを**お気に入りに登録**できるiOSアプリです。  
+  同じ機能を **UIKit版** と **SwiftUI版** の2種類のバージョンで実装しました。
+  - **[Coini (UIKit版)]()**
+  - **[Crippo (SwiftUI版)]()**
 
-### [• Animori (2025, 個人)](https://github.com/bean-i/Animori)  
-**アニメーションとキャラクターの情報を確認**し、**自分だけのライブラリに保存**できるiOSアプリです。
+### [4. Animori (2025, 個人)](https://github.com/bean-i/Animori) [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/kr/app/animori/id6744299872)
 - `UIKit`
-- [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/kr/app/animori/id6744299872)
+- **アニメとキャラクターの情報を確認**し、**自分だけのライブラリに保存**できるiOSアプリです。
 
 ## 🏆 Awards 
-- 韓国科学技術情報通信部主催　SW人材フェスティバル 全国大会 最優秀賞 [(記事リンク)](https://pr.sejong.ac.kr/news/today/sejong-prism.do?mode=view&articleNo=721638&title=%EC%84%B8%EC%A2%85%EB%8C%80+SW+%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99%2C+2024+SW+%EC%9D%B8%EC%9E%AC+%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C+%EC%9A%B0%EC%88%98%EC%9E%91%ED%92%88%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C+%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81+%EC%88%98%EC%83%81)
+- 韓国科学技術情報通信部主催 | [SW人材フェスティバル 全国大会 最優秀賞](https://pr.sejong.ac.kr/news/today/sejong-prism.do?mode=view&articleNo=721638&title=%EC%84%B8%EC%A2%85%EB%8C%80+SW+%EC%A4%91%EC%8B%AC%EB%8C%80%ED%95%99%2C+2024+SW+%EC%9D%B8%EC%9E%AC+%ED%8E%98%EC%8A%A4%ED%8B%B0%EB%B2%8C+%EC%9A%B0%EC%88%98%EC%9E%91%ED%92%88%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C+%EC%B5%9C%EC%9A%B0%EC%88%98%EC%83%81+%EC%88%98%EC%83%81)
 
 ## 📂 Experience  
 - Apple主催 | Apple Developer Academy Foundation Program 修了  
