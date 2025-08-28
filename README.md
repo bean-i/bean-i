@@ -21,11 +21,11 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
 ## 🚀 Projects
-### [1. SSGcam (2024, チーム)](https://github.com/bean-i/SSGcam)
+### [1. SSGcam (2024, チーム)](https://github.com/bean-i/SSGcam_JP)
 - `Flutter` `Node.js`
 - **リアルタイム**で通話内容を解析し、ボイスフィッシングおよび **ディープボイスを検知** するアプリケーションです。
 
-### [2. MarshEE! (2024, チーム)](https://github.com/4th-Apple-Foundation-Program/MarshEE) [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/kr/app/marshee/id6738468804)
+### [2. MarshEE! (2024, チーム)](https://github.com/bean-i/MarshEE) [![App Store](https://img.shields.io/badge/App%20Store-0D96F6?logo=apple&logoColor=white)](https://apps.apple.com/kr/app/marshee/id6738468804)
 - `UIKit`  
 - **Apple Developer Academy Foundation Program**で開発した、チーム活動における**ソフトスキルを相互に評価・共有**できるiOSアプリです。
 
